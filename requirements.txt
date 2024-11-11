@@ -1,0 +1,4 @@
+litserve
+langchain_community
+sentence-transformers
+pydantic

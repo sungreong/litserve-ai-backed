@@ -1,0 +1,8 @@
+litserve
+langchain_community
+sentence-transformers
+pydantic
+python-dotenv
+langchain_huggingface
+transformers
+torch
